@@ -1,5 +1,7 @@
 # Cytadela-RPI
 Cytadela port to the raspberry Pi4
+![Cytadela-RPI](http://cytadela.sourceforge.net/images/cytadela-startup.png)
+
 
 Cytadela is a conversion of an old Amiga first person shooter. The original was created in mid 1990's by Virtual Design, and released firstly in Poland and then in other countries. 
 
