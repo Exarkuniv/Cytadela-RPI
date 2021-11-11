@@ -9,3 +9,7 @@ Cytadela is a conversion of an old Amiga first person shooter. The original was 
 As a conversion, this project tries to be as similar to the original as possible (but, what I think is quite obvious, this could not be achieved in 100%) and therefore there won't be any significant changes, only some gameplay improvements are possible. 
 
 No data files are needed all are included 
+
+```
+wget https://raw.githubusercontent.com/Exarkuniv/Cytadela-RPI/Master/cytadela.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+```
